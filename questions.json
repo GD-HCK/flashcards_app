@@ -1,0 +1,268 @@
+[
+    {
+        "area_id": "5dc1ca9d-0a99-48e1-a8f7-bd77dc347425",
+        "topic": "History",
+        "questions": [
+            {
+                "question_id": "cd204821-8227-4c5c-8dd7-52c031b7c38f",
+                "question": "Who was the first president of the United States?",
+                "answer": "<b>George Washington</b> was the first president of the United States."
+            },
+            {
+                "question_id": "02e0da35-12a3-45cd-9837-7d0a2e8de2d4",
+                "question": "What ancient civilization built the pyramids in Egypt?",
+                "answer": "The <b>ancient Egyptians</b> built the pyramids in Egypt."
+            },
+            {
+                "question_id": "aae24ea9-eff9-4ec0-8c8c-ce3ca27da1e5",
+                "question": "Who was the famous queen of ancient Egypt known for her beauty?",
+                "answer": "<i>Cleopatra</i> was the famous queen of ancient Egypt known for her beauty."
+            },
+            {
+                "question_id": "4c2998d4-3a63-44cc-b61a-9d540afdded5",
+                "question": "What was the name of the ship that carried the Pilgrims to America in 1620?",
+                "answer": "The ship was called the <i>Mayflower</i>."
+            },
+            {
+                "question_id": "ea195089-c235-4ed7-8122-1e25f651e839",
+                "question": "What was the name of the first manned moon landing mission?",
+                "answer": "The first manned moon landing mission was <b>Apollo 11</b>."
+            },
+            {
+                "question_id": "48f15c16-f084-46d6-8051-1e9a7e160e8c",
+                "question": "Who was the leader of the Mongol Empire in the 13th century?",
+                "answer": "<b>Genghis Khan</b> was the leader of the Mongol Empire in the 13th century."
+            },
+            {
+                "question_id": "a0c554d2-d9ca-4867-bc2f-ca9c87453a7c",
+                "question": "What famous battle was fought between the British and the French in 1066?",
+                "answer": "The Battle of Hastings was fought between the British and the French in 1066."
+            },
+            {
+                "question_id": "198c4efc-7b84-4bdd-93a6-ab238a60e493",
+                "question": "What ancient city was known for its Hanging Gardens?",
+                "answer": "The ancient city known for its Hanging Gardens was <i>Babylon</i>."
+            },
+            {
+                "question_id": "447d1232-6f0e-4601-93ab-d3315ab88965",
+                "question": "Who was the famous explorer who discovered America in 1492?",
+                "answer": "Christopher Columbus was the famous explorer who discovered America in 1492."
+            },
+            {
+                "question_id": "72c84f6a-8fee-4bd7-b34b-22e74409ece5",
+                "question": "What empire was ruled by Julius Caesar?",
+                "answer": "<i>Julius Caesar</i> ruled the <b>Roman Empire</b>."
+            },
+            {
+                "question_id": "36efb1cd-1bfa-4cf5-b7df-19700418d196",
+                "question": "What was the name of the period of cultural rebirth in Europe during the 14th to 17th centuries?",
+                "answer": "The period of cultural rebirth in Europe was called the <b>Renaissance</b>."
+            },
+            {
+                "question_id": "2d437627-b4f5-4283-b1af-ba2fea3d5e1b",
+                "question": "Who was the famous queen of England who defeated the Spanish Armada in 1588?",
+                "answer": "<b>Queen Elizabeth I</b> defeated the Spanish Armada in 1588."
+            },
+            {
+                "question_id": "ecca23fb-0e42-41e1-bbd1-8ff2ac3b3c27",
+                "question": "What ancient civilization is known for its contributions to mathematics and astronomy and built the city of Chichen Itza?",
+                "answer": "The <b>Maya</b> civilization is known for its contributions to mathematics and astronomy and built the city of <i>Chichen Itza</i>."
+            },
+            {
+                "question_id": "cbbf95a5-1fed-40db-b12b-7d8cdc335cb",
+                "question": "Who was the famous leader of the Indian independence movement?",
+                "answer": "<i>Mahatma Gandhi</i> was the famous leader of the Indian independence movement."
+            },
+            {
+                "question_id": "a0877f1d-3931-49be-b348-5b21f10ccc6e",
+                "question": "What was the name of the ship that carried the first English settlers to Jamestown in 1607?",
+                "answer": "The ship was called the <b>Susan Constant</b>."
+            },
+            {
+                "question_id": "b8a3fbfc-ffea-4b72-9e74-63721100c0e8",
+                "question": "What was the main purpose of the Great Wall of China?",
+                "answer": "<ul>The main purpose of the Great Wall of China was to:<li><b>Protect</b> against invasions from northern tribes.</li><li><b>Defend</b> the Chinese states and empires.</li></ul>"
+            },
+            {
+                "question_id": "983cee27-f09b-4b38-8de4-7d5f19d000bb",
+                "question": "Who was the famous Greek philosopher who taught Alexander the Great?",
+                "answer": "<b>Aristotle</b> was the famous Greek philosopher who taught Alexander the Great."
+            },
+            {
+                "question_id": "e96c57d2-3ccb-4357-9a2a-df3c50744357",
+                "question": "What event started World War I?",
+                "answer": "The assassination of <b>Archduke Franz Ferdinand</b> started World War I."
+            },
+            {
+                "question_id": "9916d385-c36c-49b2-ac83-c4815f19146b",
+                "question": "Who was the famous civil rights leader who gave the \"I Have a Dream\" speech?",
+                "answer": "<i>Martin Luther King Jr.</i> was the famous civil rights leader who gave the \"I Have a Dream\" speech."
+            },
+            {
+                "question_id": "01653a4d-c820-47af-9b16-f3092cd6415f",
+                "question": "What was the name of the first successful English colony in America?",
+                "answer": "The first successful English colony in America was <b>Jamestown</b>."
+            },
+            {
+                "question_id": "e74be405-7ab2-4dc2-b638-45ad9abf01e5",
+                "question": "Who was the famous Italian explorer who sailed for Spain and discovered the New World?",
+                "answer": "Christopher Columbus was the Italian explorer who sailed for Spain and discovered the New World."
+            },
+            {
+                "question_id": "0aa912b1-1ce6-465a-9fa7-ccd96a65bf70",
+                "question": "What ancient civilization built the Colosseum in Rome?",
+                "answer": "The ancient <b>Romans</b> built the Colosseum in Rome."
+            },
+            {
+                "question_id": "9cb3b265-9f31-4b80-b3fc-aaebd0f2d3e5",
+                "question": "Who was the leader of the Soviet Union during World War II?",
+                "answer": "<b>Joseph Stalin</b> was the leader of the Soviet Union during World War II."
+            },
+            {
+                "question_id": "3697dcfd-a4b8-4d6c-9766-93fd19535478",
+                "question": "What famous document was signed on July 4, 1776?",
+                "answer": "The <b>Declaration of Independence</b> was signed on July 4, 1776."
+            },
+            {
+                "question_id": "55149a6c-6b96-4d69-b6db-a5cf87cc6519",
+                "question": "What was the name of the first human to journey into outer space?",
+                "answer": "<i>Yuri Gagarin</i> was the first human to journey into outer space."
+            },
+            {
+                "question_id": "ca07fafc-7990-41cf-bfed-69d25caf9195",
+                "question": "Who was the famous female pharaoh of ancient Egypt known for her extensive building projects?",
+                "answer": "<b>Hatshepsut</b> was the famous female pharaoh of ancient Egypt known for her extensive building projects."
+            },
+            {
+                "question_id": "f661c3dd-d81a-4a00-b808-07be94882aac",
+                "question": "What was the name of the ship that Charles Darwin sailed on to study evolution?",
+                "answer": "Charles Darwin sailed on the <b>HMS Beagle</b> to study evolution."
+            },
+            {
+                "question_id": "426538be-ca4b-43b6-a25d-5649fd3485ee",
+                "question": "What was the name of the treaty that ended World War I?",
+                "answer": "The <b>Treaty of Versailles</b> ended World War I."
+            },
+            {
+                "question_id": "3ba46124-7ef8-4937-b16a-e57f41d79a13",
+                "question": "Who was the famous American inventor who created the light bulb?",
+                "answer": "<b>Thomas Edison</b> was the famous American inventor who created the light bulb."
+            },
+            {
+                "question_id": "a2b41dda-772a-487f-a715-c6136ea0f9ce",
+                "question": "What famous wall divided East and West Berlin during the Cold War?",
+                "answer": "The <i>Berlin Wall</i> divided East and West Berlin during the Cold War."
+            },
+            {
+                "question_id": "a228a9a1-69db-4dc4-95a5-e4c5e5148cdc",
+                "question": "Who was the famous British Prime Minister during World War II?",
+                "answer": "<b>Winston Churchill</b> was the famous British Prime Minister during World War II."
+            },
+            {
+                "question_id": "f40e707d-84dc-4737-a23c-30e7e75cb35",
+                "question": "What was the name of the ancient city in Greece known for its large theater and ancient ruins?",
+                "answer": "The ancient city known for its large theater and ancient ruins is <i>Athens</i>."
+            },
+            {
+                "question_id": "fe39587e-2f33-448f-9f54-ab7d3269b8b2",
+                "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+                "answer": "<i>Amelia Earhart</i> was the first woman to fly solo across the Atlantic Ocean."
+            },
+            {
+                "question_id": "2fa6bca7-420f-4d5a-bffa-08cd5607414e",
+                "question": "What was the name of the famous shipwreck discovered by Robert Ballard in 1985?",
+                "answer": "The shipwreck was the <i>Titanic</i>, discovered by Robert Ballard in 1985."
+            },
+            {
+                "question_id": "4c655904-8c7f-4043-9771-5eca88617082",
+                "question": "What was the name of the famous route used by pioneers to travel west across the United States?",
+                "answer": "The famous route was the <b>Oregon Trail</b>."
+            },
+            {
+                "question_id": "62e9f438-cbef-4a6c-8864-a73b63b09655",
+                "question": "Who was the famous French military leader who became Emperor of France in the early 19th century?",
+                "answer": "<b>Napoleon Bonaparte</b> was the famous French military leader who became Emperor of France."
+            },
+            {
+                "question_id": "a2f86c16-87b2-4f70-9f73-ac8e09f7f835",
+                "question": "What was the name of the first successful powered flight by the Wright brothers?",
+                "answer": "The first successful powered flight was the Wright brothers' flight at <b>Kitty Hawk</b>."
+            },
+            {
+                "question_id": "21f62681-03b2-43ff-be9f-52a28cef280b",
+                "question": "What famous English king signed the Magna Carta in 1215?",
+                "answer": "<b>King John</b> signed the Magna Carta in 1215."
+            },
+            {
+                "question_id": "a9a66a6e-2271-4d5f-be72-f37494578953",
+                "question": "What was the name of the ancient Greek city-state known for its democratic government?",
+                "answer": "<i>Athens</i> was the ancient Greek city-state known for its democratic government."
+            },
+            {
+                "question_id": "fe8f404c-e58d-49bf-98d3-3de5d20e42da",
+                "question": "Who was the famous Russian scientist who developed the theory of relativity?",
+                "answer": "<b>Albert Einstein</b> developed the theory of relativity."
+            },
+            {
+                "question_id": "aba246f5-d922-41b1-95bd-49649643de80",
+                "question": "What was the name of the war fought between the North and South in the United States from 1861 to 1865?",
+                "answer": "The war was the <i>American Civil War</i>."
+            },
+            {
+                "question_id": "0e846a79-27ce-42d5-870b-254cd4e83aa4",
+                "question": "Who was the famous Egyptian ruler known for his elaborate tomb discovered in 1922?",
+                "answer": "<b>Tutankhamun</b> was the famous Egyptian ruler known for his elaborate tomb discovered in 1922."
+            },
+            {
+                "question_id": "c472f018-7310-4a48-a47a-1f3a6c9c1416",
+                "question": "What was the name of the famous U.S. space program that landed the first men on the Moon?",
+                "answer": "The program was called <b>Apollo</b>."
+            },
+            {
+                "question_id": "215d79f4-705c-49b5-b8f0-41b23106f204",
+                "question": "Who was the famous leader of the French Revolution who was eventually executed by guillotine?",
+                "answer": "<b>Maximilien Robespierre</b> was the famous leader of the French Revolution who was executed by guillotine."
+            },
+            {
+                "question_id": "6751c7ab-24b1-49be-90f8-ae6874a3721e",
+                "question": "What was the name of the ancient trade route that connected China with the Mediterranean?",
+                "answer": "The <i>Silk Road</i> was the ancient trade route that connected China with the Mediterranean."
+            },
+            {
+                "question_id": "27f24508-f50b-411e-806f-8f47669925ef",
+                "question": "Who was the famous German leader who orchestrated the Holocaust during World War II?",
+                "answer": "<b>Adolf Hitler</b> orchestrated the Holocaust during World War II."
+            },
+            {
+                "question_id": "33d4f7ee-bc53-4709-b638-e493f6e69112",
+                "question": "What was the name of the first successful vaccine created by Edward Jenner?",
+                "answer": "The first successful vaccine created by Edward Jenner was for <b>smallpox</b>."
+            },
+            {
+                "question_id": "0a794c8d-4eda-4b44-a91b-5d232fe09c39",
+                "question": "Who was the famous explorer who mapped the coast of Australia in the 18th century?",
+                "answer": "<i>Captain James Cook</i> was the famous explorer who mapped the coast of Australia."
+            },
+            {
+                "question_id": "cbd57c79-c81d-4876-a630-e3379192e7f2",
+                "question": "What was the name of the ancient Roman amphitheater known for its gladiator contests?",
+                "answer": "The Colosseum was the ancient Roman amphitheater known for its gladiator contests."
+            },
+            {
+                "question_id": "b7abcc52-e7c1-4da4-8ce9-2cc67cab88c3",
+                "question": "Who was the famous American civil rights activist known for her role in the Montgomery Bus Boycott?",
+                "answer": "<b>Rosa Parks</b> was the famous American civil rights activist known for her role in the Montgomery Bus Boycott."
+            },
+            {
+                "question_id": "676f6e5-8b35-4a95-a420-175a246ab26c",
+                "question": "What was the name of the treaty that ended the American Revolutionary War?",
+                "answer": "The <b>Treaty of Paris</b> ended the American Revolutionary War."
+            },
+            {
+                "question_id": "ba5b7656-8e98-45ac-a854-49ce8afcb315",
+                "question": "Who was the famous explorer who first circumnavigated the globe?",
+                "answer": "<b>Ferdinand Magellan</b> was the famous explorer who first circumnavigated the globe."
+            }
+        ]
+    }
+]
