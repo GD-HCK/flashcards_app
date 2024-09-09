@@ -1,7 +1,8 @@
-from flask import Flask, render_template, abort
+from flask import Flask, render_template, redirect, request, url_for, flash
 import json
 
 app = Flask(__name__)
+app.secret_key = 'eW91cl9zZWNyZXRfa2V5'  # Set the secret key to something unique and secret
 
 # Simulating JSON data
 # Load the data from the JSON file
@@ -19,8 +20,8 @@ def area(area_id):
     area = next((s for s in questions if s["area_id"] == area_id), None)
 
     if area is None:
-        print(f"Area {area_id} not found")
-        abort(404)
+        flash(f"Area {area_id} not found", 'error')
+        return redirect(request.referrer or url_for('index'))
 
     return render_template(
         'area.html',
@@ -34,14 +35,14 @@ def question(area_id, question_id):
     area = next((s for s in questions if s["area_id"] == area_id), None)
 
     if area is None:
-        print(f"Area {area_id} not found")
-        abort(404)
+        flash(f"Area {area_id} not found", 'error')
+        return redirect(request.referrer or url_for('index'))
 
     question = next((s for s in area['questions'] if s["question_id"] == question_id), None)
 
     if question is None:
-        print(f"Question {question_id} not found")
-        abort(404)
+        flash(f"Question {question_id} not found", 'error')
+        return redirect(request.referrer or url_for('index'))
 
     # Navigation for previous and next topics
     current_index = area['questions'].index(question)

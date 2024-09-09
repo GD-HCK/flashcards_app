@@ -1,49 +1,42 @@
-<!DOCTYPE html>
-<html lang="en">
+{% extends 'template.html' %}
 
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Questions</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
-</head>
-
-<body>
-    <div class="container">
-        <div class="side"></div>
-        <div class="main">
-            <div class="flashcard-container">
-                <div class="flashcard">
-                    <div class="flashcard-front">
-                        <h3>{{ current_index }}/{{ questions_length }} - {{ question['question'] }}</h3>
-                    </div>
-                    <div class="flashcard-back">
-                        <p>{{ question['answer'] | safe }}</p>
-                    </div>
+{% block content %}
+<div class="container">
+    <div class="side"></div>
+    <div class="main">
+        <div class="flashcard-container">
+            <div class="flashcard">
+                <div class="flashcard-front">
+                    <h3>{{ current_index }}/{{ questions_length }} - {{ question['question'] }}</h3>
                 </div>
-            </div>
-
-            <div class="button-container">
-                <div class="navigation">
-                    {% if prev_index is not none %}
-                    <a class="button" href="{{ url_for('question', area_id=area['area_id'], question_id=area['questions'][prev_index]['question_id']) }}">Previous</a>
-                    {% endif %}
-                    <a class="button" href="#" id="reveal-answer">Reveal Answer</a>
-                    {% if next_index is not none %}
-                    <a class="button" href="{{ url_for('question', area_id=area['area_id'], question_id=area['questions'][next_index]['question_id']) }}">Next</a>
-                    {% endif %}
-                    <a class="button" href="{{ url_for('index') }}">Back to Menu</a>
+                <div class="flashcard-back">
+                    <p>{{ question['answer'] | safe }}</p>
                 </div>
             </div>
         </div>
-        <div class="side"></div>
+
+        <div class="button-container">
+            <div class="navigation">
+                {% if prev_index is not none %}
+                <a class="button"
+                    href="{{ url_for('question', area_id=area['area_id'], question_id=area['questions'][prev_index]['question_id']) }}">Previous</a>
+                {% endif %}
+                <a class="button" href="#" id="reveal-answer">Reveal Answer</a>
+                {% if next_index is not none %}
+                <a class="button"
+                    href="{{ url_for('question', area_id=area['area_id'], question_id=area['questions'][next_index]['question_id']) }}">Next</a>
+                {% endif %}
+                <a class="button" href="{{ url_for('index') }}">Back to Menu</a>
+            </div>
+        </div>
     </div>
+    <div class="side"></div>
+</div>
 
-    <script>
-        document.getElementById('reveal-answer').addEventListener('click', function() {
-            var flashcard = document.querySelector('.flashcard');
-            flashcard.classList.toggle('flipped');
-        });
-    </script>
-</body>
-
-</html>
+<script>
+    document.getElementById('reveal-answer').addEventListener('click', function () {
+        var flashcard = document.querySelector('.flashcard');
+        flashcard.classList.toggle('flipped');
+    });
+</script>
+{% endblock %}
